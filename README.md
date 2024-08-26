@@ -11,6 +11,8 @@ Este proyecto fue diseñado con:
 * [Objetivos](#objetivos)
 * [Requisitos](#requisitos)
 * [Ejecución](#ejecución)
+    * [API - Laravel](#api---laravel)
+    * [Vue JS](#vue-js)
 * [Desarrollador](#desarrollador)
 
 ## Objetivos
